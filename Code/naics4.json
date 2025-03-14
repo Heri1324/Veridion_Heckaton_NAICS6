@@ -1,0 +1,609 @@
+{
+    "3212": {
+        "Name": "veneer , plywood , and engin wood product manufactur ",
+        "Description": [
+            "veneer product",
+            "plywood manufactur",
+            "particleboard product",
+            "orient strand board ( osb ) manufactur",
+            "fiberboard manufactur",
+            "engin wood product manufactur"
+        ]
+    },
+    "3219": {
+        "Name": "other wood product manufactur ",
+        "Description": [
+            "wood pallet and skid manufactur",
+            "wooden contain manufactur",
+            "wood kitchenwar manufactur",
+            "wood cabinet and countertop manufactur",
+            "wooden furnitur manufactur",
+            "wood truss manufactur",
+            "wooden reel and spool manufactur"
+        ]
+    },
+    "3221": {
+        "Name": "pulp , paper , and paperboard mill ",
+        "Description": [
+            "pulp product",
+            "paper manufactur",
+            "paperboard manufactur",
+            "paper bag manufactur",
+            "paper box manufactur",
+            "paper tube manufactur",
+            "paper napkin manufactur"
+        ]
+    },
+    "3222": {
+        "Name": "convert paper product manufactur ",
+        "Description": [
+            "paper bag convert",
+            "paper box convert",
+            "stationeri product manufactur",
+            "envelop manufactur",
+            "paper bag and coat and treat paper manufactur",
+            "paperboard contain manufactur"
+        ]
+    },
+    "3231": {
+        "Name": "print and relat support activ ",
+        "Description": [
+            "commerci print",
+            "digit print",
+            "screen print",
+            "prepress servic",
+            "bookbind",
+            "typeset",
+            "print support servic"
+        ]
+    },
+    "3241": {
+        "Name": "petroleum and coal product manufactur ",
+        "Description": [
+            "petroleum refin",
+            "asphalt pave mixtur manufactur",
+            "asphalt shingl and coat materi manufactur",
+            "petroleum lubric oil and greas manufactur",
+            "petroleum wax manufactur",
+            "coal tar distil"
+        ]
+    },
+    "3251": {
+        "Name": "basic chemic manufactur ",
+        "Description": [
+            "petrochem manufactur",
+            "industri gas manufactur",
+            "synthet dye and pigment manufactur",
+            "alkali and chlorin manufactur",
+            "synthet rubber manufactur",
+            "fertil manufactur"
+        ]
+    },
+    "3252": {
+        "Name": "resin , synthet rubber , and artifici synthet fiber and filament manufactur ",
+        "Description": [
+            "plastic materi manufactur",
+            "synthet rubber manufactur",
+            "artifici fiber and filament manufactur",
+            "cellulos plastic manufactur",
+            "melamin resin manufactur",
+            "urea-formaldehyd resin manufactur"
+        ]
+    },
+    "3253": {
+        "Name": "pesticid , fertil , and other agricultur chemic manufactur ",
+        "Description": [
+            "pesticid manufactur",
+            "insecticid manufactur",
+            "herbicid manufactur",
+            "fertil manufactur",
+            "soil condition manufactur",
+            "agricultur chemic adjuv manufactur"
+        ]
+    },
+    "3254": {
+        "Name": "pharmaceut and medicin manufactur ",
+        "Description": [
+            "basic pharmaceut manufactur",
+            "medicin and botan manufactur",
+            "pharmaceut prepar manufactur",
+            "vaccin manufactur",
+            "diagnost substanc manufactur",
+            "biopharmaceut manufactur"
+        ]
+    },
+    "3255": {
+        "Name": "paint , coat , and adhes manufactur ",
+        "Description": [
+            "paint manufactur",
+            "varnish manufactur",
+            "enamel manufactur",
+            "lacquer manufactur",
+            "stain manufactur",
+            "adhes manufactur"
+        ]
+    },
+    "3256": {
+        "Name": "soap , clean compound , and toilet prepar manufactur ",
+        "Description": [
+            "soap manufactur",
+            "deterg manufactur",
+            "clean compound manufactur",
+            "polish prepar manufactur",
+            "perfum manufactur",
+            "cosmet manufactur"
+        ]
+    },
+    "3259": {
+        "Name": "other chemic product and prepar manufactur ",
+        "Description": [
+            "explos manufactur",
+            "photograph film and chemic manufactur",
+            "chemic prepar manufactur",
+            "gelatin manufactur",
+            "synthet organ color matter manufactur",
+            "match manufactur"
+        ]
+    },
+    "3261": {
+        "Name": "plastic product manufactur ",
+        "Description": [
+            "plastic bottl manufactur",
+            "plastic pipe manufactur",
+            "plastic packag materi manufactur",
+            "plastic plumb fixtur manufactur",
+            "plastic housewar manufactur",
+            "plastic furnitur manufactur"
+        ]
+    },
+    "3262": {
+        "Name": "rubber product manufactur ",
+        "Description": [
+            "tire manufactur",
+            "rubber hose and belt manufactur",
+            "rubber gasket and pack manufactur",
+            "rubber seal manufactur",
+            "rubber floor mat manufactur",
+            "rubber toy manufactur"
+        ]
+    },
+    "3271": {
+        "Name": "clay product and refractori manufactur ",
+        "Description": [
+            "brick manufactur",
+            "clay pipe manufactur",
+            "ceram tile manufactur",
+            "refractori product manufactur",
+            "stonewar manufactur",
+            "clay potteri manufactur"
+        ]
+    },
+    "3272": {
+        "Name": "glass and glass product manufactur ",
+        "Description": [
+            "flat glass manufactur",
+            "glass contain manufactur",
+            "glasswar manufactur",
+            "fiberglass insul manufactur",
+            "glass mirror manufactur",
+            "glass block manufactur"
+        ]
+    },
+    "3273": {
+        "Name": "cement and concret product manufactur ",
+        "Description": [
+            "cement manufactur",
+            "ready-mix concret manufactur",
+            "concret pipe manufactur",
+            "concret block manufactur",
+            "concret brick manufactur",
+            "concret product prefabr servic"
+        ]
+    },
+    "3274": {
+        "Name": "lime and gypsum product manufactur ",
+        "Description": [
+            "lime manufactur",
+            "gypsum product manufactur",
+            "plaster product manufactur",
+            "wallboard manufactur",
+            "gypsum board manufactur",
+            "ceil tile manufactur"
+        ]
+    },
+    "3279": {
+        "Name": "other nonmetal miner product manufactur ",
+        "Description": [
+            "abras product manufactur",
+            "miner wool manufactur",
+            "carbon black manufactur",
+            "artifici stone product manufactur",
+            "cut stone and stone product manufactur",
+            "ground or treat miner and earth manufactur"
+        ]
+    },
+    "4231": {
+        "Name": "motor vehicl and motor vehicl part and suppli merchant wholesal ",
+        "Description": [
+            "wholesal distribut of automobil",
+            "wholesal distribut of truck",
+            "wholesal distribut of motorcycl",
+            "wholesal distribut of automot part",
+            "wholesal distribut of tire",
+            "wholesal distribut of batteri",
+            "wholesal distribut of lubric",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4232": {
+        "Name": "furnitur and home furnish merchant wholesal ",
+        "Description": [
+            "wholesal distribut of furnitur",
+            "wholesal distribut of home furnish",
+            "wholesal distribut of mattress",
+            "wholesal distribut of blind and shade",
+            "wholesal distribut of rug and carpet",
+            "wholesal distribut of decor accessori",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4233": {
+        "Name": "lumber and other construct materi merchant wholesal ",
+        "Description": [
+            "wholesal distribut of lumber",
+            "wholesal distribut of plywood",
+            "wholesal distribut of build materi",
+            "wholesal distribut of construct equip",
+            "wholesal distribut of roof materi",
+            "wholesal distribut of insul materi",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4234": {
+        "Name": "profession and commerci equip and suppli merchant wholesal ",
+        "Description": [
+            "wholesal distribut of offic suppli",
+            "wholesal distribut of offic equip",
+            "wholesal distribut of comput hardwar",
+            "wholesal distribut of softwar",
+            "wholesal distribut of commerci print equip",
+            "wholesal distribut of laboratori equip",
+            "wholesal distribut of medic equip",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4235": {
+        "Name": "metal and miner ( except petroleum ) merchant wholesal ",
+        "Description": [
+            "wholesal distribut of metal product",
+            "wholesal distribut of steel",
+            "wholesal distribut of aluminum",
+            "wholesal distribut of copper",
+            "wholesal distribut of miner",
+            "wholesal distribut of ore",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4236": {
+        "Name": "electr and electron good merchant wholesal ",
+        "Description": [
+            "wholesal distribut of electr equip",
+            "wholesal distribut of electron compon",
+            "wholesal distribut of applianc",
+            "wholesal distribut of light fixtur",
+            "wholesal distribut of telecommun equip",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4237": {
+        "Name": "hardwar , and plumb and heat equip and suppli merchant wholesal ",
+        "Description": [
+            "wholesal distribut of hardwar",
+            "wholesal distribut of plumb suppli",
+            "wholesal distribut of heat equip",
+            "wholesal distribut of air condit equip",
+            "wholesal distribut of refriger equip",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4238": {
+        "Name": "machineri , equip , and suppli merchant wholesal ",
+        "Description": [
+            "wholesal distribut of machineri",
+            "wholesal distribut of industri equip",
+            "wholesal distribut of agricultur equip",
+            "wholesal distribut of construct machineri",
+            "wholesal distribut of materi handl equip",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4239": {
+        "Name": "miscellan durabl good merchant wholesal ",
+        "Description": [
+            "wholesal distribut of sport good",
+            "wholesal distribut of toy",
+            "wholesal distribut of game",
+            "wholesal distribut of luggag",
+            "wholesal distribut of music instrument",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4241": {
+        "Name": "paper and paper product merchant wholesal ",
+        "Description": [
+            "wholesal distribut of paper",
+            "wholesal distribut of envelop",
+            "wholesal distribut of stationeri",
+            "wholesal distribut of packag materi",
+            "wholesal distribut of paper product",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4242": {
+        "Name": "drug and druggist ' sundri merchant wholesal ",
+        "Description": [
+            "wholesal distribut of pharmaceut",
+            "wholesal distribut of medic suppli",
+            "wholesal distribut of vitamin",
+            "wholesal distribut of first aid suppli",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4243": {
+        "Name": "apparel , piec good , and notion merchant wholesal ",
+        "Description": [
+            "wholesal distribut of cloth",
+            "wholesal distribut of fabric",
+            "wholesal distribut of sew suppli",
+            "wholesal distribut of button and zipper",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4244": {
+        "Name": "groceri and relat product merchant wholesal ",
+        "Description": [
+            "wholesal distribut of food product",
+            "wholesal distribut of beverag",
+            "wholesal distribut of snack",
+            "wholesal distribut of can good",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4245": {
+        "Name": "farm product raw materi merchant wholesal ",
+        "Description": [
+            "wholesal distribut of crop",
+            "wholesal distribut of livestock",
+            "wholesal distribut of agricultur input",
+            "wholesal distribut of seed",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4246": {
+        "Name": "chemic and alli product merchant wholesal ",
+        "Description": [
+            "wholesal distribut of chemic",
+            "wholesal distribut of industri gase",
+            "wholesal distribut of fertil",
+            "wholesal distribut of pesticid",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4247": {
+        "Name": "petroleum and petroleum product merchant wholesal ",
+        "Description": [
+            "wholesal distribut of crude oil",
+            "wholesal distribut of gasolin",
+            "wholesal distribut of diesel",
+            "wholesal distribut of lubric",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4248": {
+        "Name": "beer , wine , and distil alcohol beverag merchant wholesal ",
+        "Description": [
+            "wholesal distribut of beer",
+            "wholesal distribut of wine",
+            "wholesal distribut of spirit",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4249": {
+        "Name": "miscellan nondur good merchant wholesal ",
+        "Description": [
+            "wholesal distribut of tobacco product",
+            "wholesal distribut of candl",
+            "wholesal distribut of firework",
+            "wholesal distribut of person care product",
+            "inventori manag",
+            "logist coordin",
+            "custom servic"
+        ]
+    },
+    "4251": {
+        "Name": "wholesal electron market and agent and broker ",
+        "Description": [
+            "onlin wholesal platform",
+            "electron marketplac",
+            "e-commerc platform",
+            "wholesal brokerag servic",
+            "facilit transact between buyer and seller",
+            "market research",
+            "sale represent",
+            "custom relationship manag",
+            "order process",
+            "logist coordin",
+            "trade financ"
+        ]
+    },
+    "5411": {
+        "Name": "legal servic ",
+        "Description": [
+            "legal consult",
+            "legal represent",
+            "contract draft and review",
+            "litig support",
+            "intellectu properti servic",
+            "legal research",
+            "regulatori complianc",
+            "corpor govern",
+            "estat plan",
+            "altern disput resolut"
+        ]
+    },
+    "5412": {
+        "Name": "account , tax prepar , bookkeep , and payrol servic ",
+        "Description": [
+            "account servic",
+            "tax prepar and plan",
+            "financi statement prepar",
+            "bookkeep and recordkeep",
+            "payrol process",
+            "audit servic",
+            "budget and forecast",
+            "financi analysi",
+            "tax complianc",
+            "ir represent"
+        ]
+    },
+    "5413": {
+        "Name": "architectur , engin , and relat servic ",
+        "Description": [
+            "architectur design",
+            "structur engin",
+            "civil engin",
+            "mechan engin",
+            "electr engin",
+            "environment consult",
+            "urban plan",
+            "land survey",
+            "build inspect",
+            "project manag"
+        ]
+    },
+    "5414": {
+        "Name": "special design servic ",
+        "Description": [
+            "graphic design",
+            "industri design",
+            "interior design",
+            "fashion design",
+            "web design",
+            "multimedia design",
+            "packag design",
+            "exhibit design",
+            "user experi ( ux ) design",
+            "brand and ident design"
+        ]
+    },
+    "5415": {
+        "Name": "comput system design and relat servic ",
+        "Description": [
+            "system analysi",
+            "softwar develop",
+            "network design and administr",
+            "databas develop and manag",
+            "web develop",
+            "it consult",
+            "cybersecur servic",
+            "cloud comput solut",
+            "mobil app develop",
+            "it project manag"
+        ]
+    },
+    "5416": {
+        "Name": "manag , scientif , and technic consult servic ",
+        "Description": [
+            "manag consult",
+            "strateg plan",
+            "organiz develop",
+            "chang manag",
+            "busi process improv",
+            "market research",
+            "feasibl studi",
+            "regulatori complianc consult",
+            "technolog transfer",
+            "risk manag"
+        ]
+    },
+    "5417": {
+        "Name": "scientif research and develop servic ",
+        "Description": [
+            "basic research",
+            "appli research",
+            "experiment develop",
+            "biotechnolog research",
+            "pharmaceut research",
+            "environment research",
+            "aerospac research",
+            "energi research",
+            "medic research",
+            "patent develop"
+        ]
+    },
+    "5418": {
+        "Name": "advertis , public relat , and relat servic ",
+        "Description": [
+            "advertis campaign develop",
+            "media plan and buy",
+            "creativ concept and design",
+            "digit market",
+            "social media manag",
+            "public relat",
+            "brand manag",
+            "event plan and promot",
+            "market research",
+            "reput manag"
+        ]
+    },
+    "5419": {
+        "Name": "other profession , scientif , and technic servic ",
+        "Description": [
+            "translat and interpret servic",
+            "environment consult",
+            "geotechn engin",
+            "forens account",
+            "actuari servic",
+            "technic write",
+            "patent and trademark servic",
+            "veterinari servic",
+            "landscap architectur",
+            "photographi and videographi",
+            ""
+        ]
+    }
+}
